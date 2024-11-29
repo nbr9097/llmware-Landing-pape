@@ -10,7 +10,7 @@ const Header = () => {
       <nav>
         <ul className="navList">
           <li className="navItem"><a href="/" className="navLink">Home</a></li>
-          <li className="navItem"><a href="/https://novathon.vercel.app/login" className="navLink">Login</a></li>
+          <li className="navItem"><a href="https://novathon.vercel.app/login" className="navLink">Login</a></li>
         </ul>
       </nav>
     </header></card>
